@@ -1,0 +1,4 @@
+shells b/t p1/p2	p1/vac	p2/vac	# of integrals
+               1	     1	     1	            24
+               1	     1	     2	            84
+               1	     2	     2	             0

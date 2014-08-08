@@ -1,0 +1,18 @@
+#	n and n_s, for calculation of contribution of electrons in s and d:
+11
+1.05
+
+
+#	parameters for cubic spline:
+1 0 0
+1 0.01446 -3.5847
+1 0.02891 -5.1449
+1 0.05783 -3.4041
+0 0.0665 0
+
+
+#	a1, a2, Rc; parameters for screened Coulumb, Foils:
+0.140974
+0.017517
+3.0899
+

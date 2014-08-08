@@ -1,0 +1,12 @@
+at separation 1, dF = 0.0154668
+at separation 2, dF = 0.00930002
+at separation 3, dF = 0.00673885
+at separation 4, dF = 0.00418271
+at separation 5, dF = 0.00293913
+at separation 6, dF = 0.000630352
+at separation 7, dF = 0.00230643
+at separation 8, dF = 0.00270466
+at separation 9, dF = 0.00089934
+at separation 10, dF = 0.000777866
+at separation 11, dF = 0.000642652
+at separation 12, dF = -4.79218e-05

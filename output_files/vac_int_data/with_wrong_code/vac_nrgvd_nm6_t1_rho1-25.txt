@@ -1,0 +1,4 @@
+at separation 1 dF = 0.0335378
+at separation 2 dF = 0.0106082
+at separation 3 dF = 0.00578873
+at separation 4 dF = -0.00352941

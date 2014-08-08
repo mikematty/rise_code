@@ -1,0 +1,22 @@
+#All computed at rho = T = 1.0
+#Bounds in second column found using Mostafa's metric
+#Bounds in third column were determined by choosing the max distance w/in
+#the ws cell, and rejecting all points not inside 
+#the max distance is the radius of the circumscribed sphere, cbrt(1/(2*rho)) 
+#n  Zs Mostafa    Zs @ max
+10  34.56202989   12.86188082
+12  34.56864670   27.89302383
+14  34.56854956   35.55355811
+16  34.56856333   36.64063828
+18  34.56856763   35.49759433
+20  34.56856675   34.65485545
+22  34.56856672   34.42133241
+24  34.56856734   34.46341373
+26  34.56856763   34.54103578
+28  34.56856709   34.57566948
+30  34.56856704   34.57625679
+32  34.56856691   34.56962929
+34  34.56856719   34.56746664
+36  34.56856735   34.56820597
+38  34.56856711   34.56875206
+40  34.56856723   34.56865422
