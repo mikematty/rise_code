@@ -399,8 +399,10 @@ shell of the first vacancy that the particle is in, and j that of the second.
 In the case of interacting vacancies separated by k shells, there will be 
 $\xi_k'$ many more integrals of $Z_s$ type than in the case of non-interacting
 vacancies, and for each $Z_{sv,ij}$, of which there are also $\xi_k'$ many,
-there will be one fewer $Z_{sv,i}$ and one fewer $Z_{sv,j}$.  The first equation below is then the free energy for two non-interacting vacancies.  The second equation is that for two interacting vacancies.  The final equation is the difference between the free
-energy in these two scenarios, where the outer sum is over the the possible second vacancies at a given separation (all of these terms should be the same) and the inner sum is over the particles in the overlap, of which there should be $\xi'_k$ for vacancies at separation k.
+there will be one fewer $Z_{sv,i}$ and one fewer $Z_{sv,j}$.  The first equation below is then the free energy for two non-interacting vacancies.  The second equation is that for two interacting vacancies.  
+
+The final equation is the difference between the free
+energy in these two scenarios, where the outer sum is over the the possible second vacancies at a given separation (all of these terms should be the same) and the inner sum is over the particles in the overlap, of which there should be $\xi'_k$ for vacancies at separation k.  When computing this, I average by the number of particles at a given separation.  I don't know if this is a good way to normalize or not.  
 
 \begin{align}
   \beta F = -\sum\limits_{i=1}^{n_m} g_i \ln(Z_{sv,i}) - 
