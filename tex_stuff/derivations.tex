@@ -399,16 +399,17 @@ shell of the first vacancy that the particle is in, and j that of the second.
 In the case of interacting vacancies separated by k shells, there will be 
 $\xi_k'$ many more integrals of $Z_s$ type than in the case of non-interacting
 vacancies, and for each $Z_{sv,ij}$, of which there are also $\xi_k'$ many,
-there will be one fewer $Z_{sv,i}$ and one fewer $Z_{sv,j}$ 
+there will be one fewer $Z_{sv,i}$ and one fewer $Z_{sv,j}$.  The first equation below is then the free energy for two non-interacting vacancies.  The second equation is that for two interacting vacancies.  The final equation is the difference between the free
+energy in these two scenarios, where the outer sum is over the the possible second vacancies at a given separation (all of these terms should be the same) and the inner sum is over the particles in the overlap, of which there should be $\xi'_k$ for vacancies at separation k.
 
 \begin{align}
   \beta F = -\sum\limits_{i=1}^{n_m} g_i \ln(Z_{sv,i}) - 
-             \sum\limits_{j=1}^{n_m} g_j \ln(Z_{sv,j}) + \cdots
-  \beta F = -\sum\ln(Z_{sv,ij})-\xi'\ln(Z_s) + \cdots
+             \sum\limits_{j=1}^{n_m} g_j \ln(Z_{sv,j}) + \cdots\\
+  \beta F = -\sum\limits_{i,j}\ln(Z_{sv,ij})-\xi'\ln(Z_s) + \cdots\\
   \Delta F = \sum\sum \ln\left(\frac{Z_{sv,ij}Z_s}{Z_{sv,i}Z_{sv,j}}\right)
 \end{align}
 
-\subsection{Free Energy Minimization in the Presence of Monovacancies and
-            Divacancies (Unifinished)}
+%\subsection{Free Energy Minimization in the Presence of Monovacancies and
+%            Divacancies (Unifinished)}
 
 \end{document}
